@@ -24,5 +24,5 @@ The accuracy for the Train Set, Validation Set and Test Set is as follows:
 |----------|-------------|----------------|----------|
 | Accuracy | 99.25 %     | 98.00 %        | 98.00 %  |
 
-The training graphs, confusion matrices and other metrics can be found in the `training_dns_alert_model.ipunb` notebook 
+The training graphs, confusion matrices and other metrics can be found in the `training_dns_alert_model.ipynb` notebook 
 in the `notebooks` directory.
